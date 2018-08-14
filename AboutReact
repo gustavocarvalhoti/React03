@@ -1,0 +1,20 @@
+#Cria um projeto React
+npm install create-react-app@0.5.0
+
+#Criação do nosso projeto e execução do Hello World
+./node_modules/.bin/create-react-app instalura
+
+#Iniciar o projeto
+/home/gustavera/Projects/React03/instalura
+npm install
+npm start
+
+#Executar o .jar
+cd /home/gustavera/Projects/React03/instalura
+java -Dspring.datasource.password=teste -jar instalura.jar
+
+#Gerando dados (Com o jar rodando)
+http://localhost:8080/gera/dados
+usuário = alots, senha = 123456;
+usuário = rafael, senha = 123456;
+usuário = vitor, senha = 123456
